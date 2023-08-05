@@ -1,7 +1,9 @@
 name: flutter_virtual_display
 description: This is a Flutter plugin that allows you to create a virtual display
 version: 0.0.1
-homepage:
+homepage: https://github.com/rohitsangwan01/flutter_virtual_display
+repository: https://github.com/rohitsangwan01/flutter_virtual_display
+issue_tracker: https://github.com/rohitsangwan01/flutter_virtual_display/issues
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
