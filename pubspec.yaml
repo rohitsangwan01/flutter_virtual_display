@@ -1,0 +1,24 @@
+name: flutter_virtual_display
+description: This is a Flutter plugin that allows you to create a virtual display
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    platforms:
+      macos:
+        pluginClass: FlutterVirtualDisplayPlugin
